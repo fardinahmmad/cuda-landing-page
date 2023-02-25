@@ -90,6 +90,9 @@
     #review .box-part .box{
       margin: 20px 30px;  
     }
+    #review .box-part .box-p{
+      margin: 0px 30px;  
+    }
      #portfolio img{
         max-width: 100%;
       }
